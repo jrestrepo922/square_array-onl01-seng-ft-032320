@@ -6,3 +6,5 @@ def square_array(array)
   end 
   puts new_array.inspect 
 end
+
+square_array([2, 4, 6])
