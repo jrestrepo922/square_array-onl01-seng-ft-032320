@@ -21,4 +21,4 @@ def square_array2(numbers)
   end
 end
 
-a
+square_array2(numbers)
