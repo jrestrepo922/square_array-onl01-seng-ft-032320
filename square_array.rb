@@ -20,3 +20,4 @@ def square_array2(numbers)
 end
 
 puts square_array2(numbers)
+puts square_array2(new_numbers)
