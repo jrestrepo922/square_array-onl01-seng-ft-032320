@@ -18,3 +18,4 @@ a = [1, 2, 3, 4]
 puts "collect a : #{a.collect  do |x| x + 1 end}\n\n"
   
 puts "collect a : #{a.collect do |x| x - 5*7  end}\n\n"
+
