@@ -16,7 +16,7 @@ new_numbers = [9,10,16,25]
 def square_array2(numbers)
   new_numbers_array []
   
-  numbers.collect |number| do 
+  numbers.collect do |number|  
     number**2
   end
 end
