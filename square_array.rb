@@ -14,5 +14,7 @@ end
 numbers = [1,2,3]
 new_numbers = [9,10,16,25]
 def square_array2(numbers)
+  new_numbers_array []
   
+  numbers.collect
 end
