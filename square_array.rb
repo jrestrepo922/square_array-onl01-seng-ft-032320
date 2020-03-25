@@ -20,3 +20,5 @@ def square_array2(numbers)
     number**2
   end
 end
+
+a
