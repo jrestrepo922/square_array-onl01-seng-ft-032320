@@ -19,4 +19,4 @@ def square_array2(numbers)
   end
 end
 
-square_array2(numbers)
+puts square_array2(numbers)
